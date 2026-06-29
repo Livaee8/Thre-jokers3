@@ -1,8 +1,12 @@
 {
-  "title": "ثلاثة جوكرات",
+  "title": "Thre-jokers",
+  "description": "ثلاثة جوكرات",
+  "artist": "",
+  "author": "",
+  "cover": "https://raw.githubusercontent.com/Livaee8/Thre-jokers3/main/001.jpg",
   "chapters": {
     "1": {
-      "title": "الفصل 1",
+      "title": "الفصل 3",
       "groups": {
         "Livaee8": [
           "https://raw.githubusercontent.com/Livaee8/Thre-jokers3/main/001.jpg",
